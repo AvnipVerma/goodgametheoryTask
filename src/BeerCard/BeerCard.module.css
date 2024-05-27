@@ -1,0 +1,25 @@
+.beerCard {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 16px;
+    width: 200px;
+    text-align: center;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .image {
+    width: 100px;
+    height: auto;
+    margin-bottom: 16px;
+  }
+  
+  .name {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .style, .abv {
+    font-size: 14px;
+  }
+  
